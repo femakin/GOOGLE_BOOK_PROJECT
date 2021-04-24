@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/google_book_project/static/css/main.77464a17.chunk.css",
+    "main.js": "/google_book_project/static/js/main.da012341.chunk.js",
+    "main.js.map": "/google_book_project/static/js/main.da012341.chunk.js.map",
+    "runtime-main.js": "/google_book_project/static/js/runtime-main.c2b904e1.js",
+    "runtime-main.js.map": "/google_book_project/static/js/runtime-main.c2b904e1.js.map",
+    "static/js/2.a95b6b62.chunk.js": "/google_book_project/static/js/2.a95b6b62.chunk.js",
+    "static/js/2.a95b6b62.chunk.js.map": "/google_book_project/static/js/2.a95b6b62.chunk.js.map",
+    "static/js/3.59517910.chunk.js": "/google_book_project/static/js/3.59517910.chunk.js",
+    "static/js/3.59517910.chunk.js.map": "/google_book_project/static/js/3.59517910.chunk.js.map",
+    "index.html": "/google_book_project/index.html",
+    "static/css/main.77464a17.chunk.css.map": "/google_book_project/static/css/main.77464a17.chunk.css.map",
+    "static/js/2.a95b6b62.chunk.js.LICENSE.txt": "/google_book_project/static/js/2.a95b6b62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2b904e1.js",
+    "static/js/2.a95b6b62.chunk.js",
+    "static/css/main.77464a17.chunk.css",
+    "static/js/main.da012341.chunk.js"
+  ]
+}
