@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+## Google book store project: A book listing page for HTML 5 books using the Google Books API.
+## The goal is to start with a mobile-first design approach to achieve both mobile and desktop layouts in a single style sheet. 
+
+## Requirements
+
+## Each book in the list should display the book cover, title, subtitle, all
+## authors, number of pages, and description.
+## You should be able to select a book anywhere on the page by
+## clicking on them, it should be clear the user has made a selection, add
+## a class of is-selected.
+## You should be able to click on a selected book a second time to
+## remove the class.
+## Reloading the page should remember the state of the selected books.
+## Use the last two books from the JSON array and display those in the
+## Featured' books column only.
+## The book description should be a maximum of 140 characters.
+
+
+
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,4 +90,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# GOOGLE_BOOK_PROJECT
+# GOOGLE_BOOK_PROJECT -->
